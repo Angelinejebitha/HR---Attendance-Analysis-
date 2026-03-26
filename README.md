@@ -1,4 +1,4 @@
-# HR Attendance Analysis
+# Employee Attendance Analysis
 
 📊 Project Overview
 This project analyzes employee attendance data to identify patterns and trends.
