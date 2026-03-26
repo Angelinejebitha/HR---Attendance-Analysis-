@@ -23,4 +23,5 @@ This project analyzes employee attendance data to identify patterns and trends.
 <img width="1920" height="977" alt="Employee Attendance Analysis " src="https://github.com/user-attachments/assets/35bb859d-d701-407d-b2f9-f217714f0978" />
 
 **🎯 Objective**
+
 To help HR teams track attendance and improve workforce management.
