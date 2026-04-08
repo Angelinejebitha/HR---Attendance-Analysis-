@@ -5,10 +5,10 @@
 This project analyzes employee attendance data to identify patterns and trends.
 
 **🎯 Objective**
-- Monitor key workforce metrics such as attendance rate, work-from-home (WFH) share, and sick leave rate
-- Analyze employee attendance patterns and remote work trends over time
-- Identify absenteeism behavior and potential workforce inefficiencies
-- Enable HR teams to make data-driven decisions for improving attendance and workforce productivity
+- Monitor and evaluate key workforce metrics including attendance rate, WFH share, and sick leave rate
+- Analyze attendance trends and employee work patterns to identify behavioral insights
+- Detect absenteeism trends and potential productivity gaps
+- Support HR decision-making through data-driven insights and workforce analytics
 
 **💻⚙️ Tools & Technologies Used**
 - Power BI
